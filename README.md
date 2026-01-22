@@ -4,7 +4,8 @@
 
 <img width="1128" height="567" alt="Screenshot 2026-01-22 195027" src="https://github.com/user-attachments/assets/93f954bf-ea00-4893-80c7-14da47be56fc" />
 
- 
+
+   
 📌 Project Overview
 
 This project focuses on analyzing student academic performance using a structured dataset. The dataset captures demographic details, attendance, subject-wise scores, and overall academic outcomes. The goal is to understand performance patterns, evaluate grading criteria, and identify factors influencing student success or failure.
