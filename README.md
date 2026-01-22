@@ -1,4 +1,4 @@
-# Student--Performance-Attendance--Mini-Project
+# Student-Performance-Attendance-Mini-Project
 
 📊 Student Performance Analysis Project
 
